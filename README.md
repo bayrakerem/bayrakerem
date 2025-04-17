@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kerem Emre Bayrak and I am a freshman at Bilkent University.
+My name is Kerem Emre Bayrak and I am an undergraduate student at Bilkent University.
